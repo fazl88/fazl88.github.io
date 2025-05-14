@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fazlur Rahman",
+    "description": "",
+    "home_page_url": "https://github.com/fazl88/fazl88.github.io",
+    "feed_url": "https://github.com/fazl88/fazl88.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fazlur Rahman"
+    },
+    "items": [
+        {
+            "id": "https://github.com/fazl88/fazl88.github.io/grilled-vegetable-terrine-with-tomato-sauce/",
+            "url": "https://github.com/fazl88/fazl88.github.io/grilled-vegetable-terrine-with-tomato-sauce/",
+            "title": "Grilled vegetable terrine with tomato sauce",
+            "summary": "Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros&hellip;",
+            "content_html": "<p>Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus ut.</p>\n<p>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis.Phasellus porttitor maximus nisl, vitae sagittis lorem gravida sit amet. Donec augue nulla, eleifend tempus nib.</p>\n<h4>Ingredients</h4>\n<p>(makes about 3 servings)</p>\n<ul>\n<li>4 large onions, thinly sliced</li>\n<li>a handful of cheddar curd, or grated cheddar</li>\n<li>2 tbsp mango or orange juice (optional)</li>\n<li>spring onions, chopped fine</li>\n<li>6 cups chicken or vegetable stock</li>\n<li>6 leaves kale, thick ribs trimmed and torn or sliced into slivers</li>\n<li>6 tablespoons crème fraiche</li>\n<li>4 pieces stale, crusty French bread</li>\n<li>1.2kg potatoes, peeled and cut into quarters</li>\n<li>1 tsp lemon juice</li>\n</ul>\n<h4>Method</h4>\n<p>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. </p>\n<p class=\"msg msg--highlight\">Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla.</p>\n<p>Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis.Phasellus porttitor maximus nisl, vitae sagittis lorem gravida sit amet. Donec augue nulla, eleifend tempus nib.</p>\n<p>Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus ut.</p>\n<p> </p>\n<header class=\"content__header\">\n<div class=\"content__meta\">\n<div class=\"content__author\">By <a href=\"https://demo.getpublii.eu/themes/taste/authors/judy-r-roark/\" class=\"invert\" rel=\"author\" title=\"Judy R. Roark\">Judy R. Roark</a></div>\n<time datetime=\"2017-12-19T15:57\">December 19, 2017</time>\n<div class=\"content__comments\"> </div>\n</div>\n</header>\n<figure class=\"content__featured-image\"><figure class=\"is-loaded\"><img  src=\"https://demo.getpublii.eu/themes/taste/media/posts/3/brooke-lark-W9OKrxBqiZA-unsplash.jpg\" sizes=\"(min-width: 56.25em) 100vw, (min-width: 37.5em) 50vw, 100vw\" srcset=\"https://demo.getpublii.eu/themes/taste/media/posts/3/responsive/brooke-lark-W9OKrxBqiZA-unsplash-xs.jpg 300w, https://demo.getpublii.eu/themes/taste/media/posts/3/responsive/brooke-lark-W9OKrxBqiZA-unsplash-sm.jpg 480w, https://demo.getpublii.eu/themes/taste/media/posts/3/responsive/brooke-lark-W9OKrxBqiZA-unsplash-md.jpg 768w, https://demo.getpublii.eu/themes/taste/media/posts/3/responsive/brooke-lark-W9OKrxBqiZA-unsplash-lg.jpg 1200w\" alt=\"Sample text\" width=\"5576\" height=\"3717\" loading=\"eager\" data-is-external-image=\"true\"></figure></figure>",
+            "image": "https://github.com/fazl88/fazl88.github.io/media/posts/1/graphic-asr-mort-both-sexes-in-2022-all-cancers.png",
+            "author": {
+                "name": "Fazlur Rahman"
+            },
+            "tags": [
+                   "ML",
+                   "AI"
+            ],
+            "date_published": "2025-05-14T22:14:37+05:30",
+            "date_modified": "2025-05-14T22:18:46+05:30"
+        }
+    ]
+}
